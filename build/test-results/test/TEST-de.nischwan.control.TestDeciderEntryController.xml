@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.nischwan.control.TestDeciderEntryController" tests="13" skipped="0" failures="0" errors="0" timestamp="2017-05-31T18:40:21" hostname="/0:0:0:0:0:0:0:1%lo" time="0.004">
+  <properties/>
+  <testcase name="addEntry" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="addAlreadyExistingEntry" classname="de.nischwan.control.TestDeciderEntryController" time="0.001"/>
+  <testcase name="changeEntryNameAndWeight" classname="de.nischwan.control.TestDeciderEntryController" time="0.001"/>
+  <testcase name="doActionWithNonExistentItem" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="removeEntry" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="renameEntry" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="redo" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="undo" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="changeEntryWeight" classname="de.nischwan.control.TestDeciderEntryController" time="0.001"/>
+  <testcase name="canRedo" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="canUndo" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="canNotRedo" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <testcase name="canNotUndo" classname="de.nischwan.control.TestDeciderEntryController" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

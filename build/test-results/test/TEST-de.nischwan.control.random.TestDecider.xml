@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.nischwan.control.random.TestDecider" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-31T18:40:07" hostname="/0:0:0:0:0:0:0:1%lo" time="13.256">
+  <properties/>
+  <testcase name="probabilities" classname="de.nischwan.control.random.TestDecider" time="13.256"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

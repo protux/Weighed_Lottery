@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.nischwan.storage.TestFileStorage" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-31T18:40:07" hostname="/0:0:0:0:0:0:0:1%lo" time="0.018">
+  <properties/>
+  <testcase name="loadEntriesIncompleteData" classname="de.nischwan.storage.TestFileStorage" time="0.01"/>
+  <testcase name="saveEntriesSuccess" classname="de.nischwan.storage.TestFileStorage" time="0.006"/>
+  <testcase name="loadEntriesSuccess" classname="de.nischwan.storage.TestFileStorage" time="0.0"/>
+  <testcase name="saveEntriesEmptyEntryList" classname="de.nischwan.storage.TestFileStorage" time="0.0"/>
+  <testcase name="loadEntriesWeightNotANumber" classname="de.nischwan.storage.TestFileStorage" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

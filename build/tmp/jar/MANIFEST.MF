@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Decider
+Implementation-Version: 0.1
+Main-Class: main/java/de.nischwan.main.Main
+
